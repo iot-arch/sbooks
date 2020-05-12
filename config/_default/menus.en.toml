@@ -1,0 +1,17 @@
+[[main]]
+  identifier = "books"
+  name = "Books"
+  url = "books"
+  weight = 1
+
+[[main]]
+  identifier = "updates"
+  name = "Updates"
+  url = "updates"
+  weight = 2
+
+[[main]]
+  identifier = "about"
+  name = "About"
+  url = "about"
+  weight = 3
