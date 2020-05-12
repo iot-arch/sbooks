@@ -1,33 +1,37 @@
-title = "Techdoc Theme"
+# Source Code repository section
+description = "put your description"
+github_repository = "https://github.com/thingsym/hugo-theme-techdoc"
+version = "0.9.0"
+
+# Documentation repository section
+# documentation repository (set edit link to documentation repository)
+github_doc_repository = "https://github.com/thingsym/hugo-theme-techdoc"
+
+# Analytic section
+google_analytics_id = "" # Your Google Analytics tracking id
+tag_manager_container_id = "" # Your Google Tag Manager container id
+google_site_verification = "" # Your Google Site Verification for Search Console
+
+# Open Graph and Twitter Cards settings section
+# Open Graph settings for each page are set on the front matter.
+# See https://gohugo.io/templates/internal/#open-graph
+# See https://gohugo.io/templates/internal/#twitter-cards
+title = "Hugo Techdoc Theme"
 images = ["images/og-image.png"] # Open graph images are placed in `static/images`
 
-logo = true # Logo that appears in the site navigation bar.
-logoText = "Security Book" # Logo text that appears in the site navigation bar.
-logoType = "short" # long, short
-description = "The Book for Security Audit." # for SEO
+# Theme settings section
+# Theme color
+# See color value reference https://developer.mozilla.org/en-US/docs/Web/CSS/color
+custom_font_color = ""
+custom_background_color = ""
 
-version = "0.0.1"
+# Documentation Menu section
+# Menu style settings
+menu_style = "open-menu" # "open-menu" or "slide-menu"
 
-themeOptions = ["light", "dark"] # select options for site color theme
-
-useFaviconGenerator = true # https://www.favicon-generator.org/
-
-enableSearch = true
-enableLangChange = true
-enableDarkMode = true
-enableBreadcrumb = true
-enableToc = true
-enableMenu = true
-enableNavbar = true
-enableFooter = true
-showPoweredBy = true
-
-paginateWindow = 1 # setting it to 1 gives 7 buttons, 2 gives 9, etc. If set 1: [1 ... 4 5 6 ... 356] [1 2 3 4 5 ... 356] etc
-taxoPaginate = 13 # items per page
-taxoGroupByDate = "2006" # "2006-01": group by month, "2006": group by year
-
-github = "https://github.com/crazybber/security-book"
-
+# Date format
+dateformat = "" # default "2 Jan 2006"
+# See the format reference https://gohugo.io/functions/format/#hugo-date-and-time-templating-reference
 
 # path name excluded from documentation menu
 menu_exclusion = [
@@ -38,6 +42,14 @@ menu_exclusion = [
     "post",
     "posts",
 ]
+
+# Algolia site search section
+# See https://www.algolia.com/doc/
+algolia_search_enable = true
+algolia_indexName = "hugo-demo-techdoc"
+algolia_appId = "7W4SAN4PLK"
+algolia_apiKey = "cbf12a63ff72d9c5dc0c10c195cf9128" # Search-Only API Key
+
 
 [algolia]
     vars = [

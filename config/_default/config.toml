@@ -1,22 +1,27 @@
 baseURL = "/"
-languageCode = "en-us"
-title = "Security Books"
 
+languageCode = "en-us"
+DefaultContentLanguage = "en"
+title = "Hugo Techdoc Theme"
 theme = "techdoc"
 
-defaultContentLanguage = "en"
-defaultContentLanguageInSubdir = true
 hasCJKLanguage = true
+metaDataFormat = "yaml"
 
-copyright = "&copy;{year}, All Rights Reserved"
-timeout = 10000
-enableEmoji = true
-paginate = 13
-rssLimit = 100
+defaultContentLanguage = "en"
+defaultContentLanguageInSubdir= false
+enableMissingTranslationPlaceholders = false
 
-
-[taxonomies]
-tag = "tags"
+# Markup configure section
+# See https://gohugo.io/getting-started/configuration-markup/
+[markup]
+    defaultMarkdownHandler = "goldmark"
+    [markup.goldmark.renderer]
+        unsafe= true
+    [markup.tableOfContents]
+        startLevel = 2
+        endLevel = 4
+        ordered = false
 
 # Algolia Search configure section
 [outputFormats.Algolia]
