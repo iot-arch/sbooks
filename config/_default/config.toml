@@ -1,5 +1,5 @@
-baseURL = "http://example.org"
-title = "Hugo Zdoc Theme"
+baseURL = "https://iotarch.github.io/iotarch/sbooks"
+title = "sbook site"
 theme = "zdoc"
 
 defaultContentLanguage = "en"
