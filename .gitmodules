@@ -4,6 +4,6 @@
 [submodule "themes/techdoc"]
 	path = themes/techdoc
 	url = https://github.com/thingsym/hugo-theme-techdoc.git
-[submodule "theme/gitbook"]
-	path = theme/gitbook
+[submodule "themes/gitbook"]
+	path = themes/gitbook
 	url = https://github.com/openeuler-mirror/gitbook-theme-hugo.git
