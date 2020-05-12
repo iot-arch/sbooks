@@ -1,3 +1,5 @@
+# Markup configure section
+# See https://gohugo.io/getting-started/configuration-markup/
 
 defaultMarkdownHandler = "goldmark"
 [tableOfContents]

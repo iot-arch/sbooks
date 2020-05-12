@@ -1,11 +1,11 @@
 # Source Code repository section
-description = "put your description"
-github_repository = "https://github.com/thingsym/hugo-theme-techdoc"
-version = "0.9.0"
+# description = "this site is designed for book"
+github_repository = "https://github.com/iotarch/sbooks"
+version = "0.0.1"
 
 # Documentation repository section
 # documentation repository (set edit link to documentation repository)
-github_doc_repository = "https://github.com/thingsym/hugo-theme-techdoc"
+github_doc_repository = "https://github.com/iotarch/sbooks"
 
 # Analytic section
 google_analytics_id = "" # Your Google Analytics tracking id

@@ -2,7 +2,7 @@ baseURL = "https://iotarch.github.io/iotarch/sbooks"
 
 languageCode = "en-us"
 DefaultContentLanguage = "en"
-title = "Hugo Techdoc Theme"
+title = "sbook site"
 theme = "techdoc"
 
 hasCJKLanguage = true
@@ -11,17 +11,6 @@ metaDataFormat = "yaml"
 defaultContentLanguage = "en"
 defaultContentLanguageInSubdir= false
 enableMissingTranslationPlaceholders = false
-
-# Markup configure section
-# See https://gohugo.io/getting-started/configuration-markup/
-[markup]
-    defaultMarkdownHandler = "goldmark"
-    [markup.goldmark.renderer]
-        unsafe= true
-    [markup.tableOfContents]
-        startLevel = 2
-        endLevel = 4
-        ordered = false
 
 # Algolia Search configure section
 [outputFormats.Algolia]
