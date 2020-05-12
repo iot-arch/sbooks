@@ -1,6 +1,7 @@
 baseURL = "/"
 languageCode = "en-us"
-title = "Techdoc Theme"
+title = "Security Books"
+
 theme = "techdoc"
 
 defaultContentLanguage = "en"
@@ -13,26 +14,13 @@ enableEmoji = true
 paginate = 13
 rssLimit = 100
 
-googleAnalytics = ""
-
-[markup]
-[markup.goldmark]
-[markup.goldmark.renderer]
-  hardWraps = true
-  unsafe = true
-  xHTML = true
-[markup.highlight]
-codeFences = true
-lineNos = true
-lineNumbersInTable = true
-noClasses = false
-[markup.tableOfContents]
-endLevel = 4
-ordered = false
-startLevel = 2
-
-[outputs]
-home = ["HTML", "RSS", "JSON"]
 
 [taxonomies]
 tag = "tags"
+
+# Algolia Search configure section
+[outputFormats.Algolia]
+    baseName = "algolia"
+    isPlainText = true
+    mediaType = "application/json"
+    notAlternative = true

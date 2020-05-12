@@ -1,0 +1,10 @@
+---
+title: "Getting started"
+description: "test post index"
+date: 2020-05-12T00:36:39+09:00
+draft: false
+weight: 1
+collapsible: true
+---
+
+"let's go!"

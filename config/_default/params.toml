@@ -1,7 +1,12 @@
+title = "Techdoc Theme"
+images = ["images/og-image.png"] # Open graph images are placed in `static/images`
+
 logo = true # Logo that appears in the site navigation bar.
 logoText = "Security Book" # Logo text that appears in the site navigation bar.
 logoType = "short" # long, short
 description = "The Book for Security Audit." # for SEO
+
+version = "0.0.1"
 
 themeOptions = ["light", "dark"] # select options for site color theme
 
@@ -22,3 +27,31 @@ taxoPaginate = 13 # items per page
 taxoGroupByDate = "2006" # "2006-01": group by month, "2006": group by year
 
 github = "https://github.com/crazybber/security-book"
+
+
+# path name excluded from documentation menu
+menu_exclusion = [
+    "archives",
+    "archive",
+    "blog",
+    "entry",
+    "post",
+    "posts",
+]
+
+[algolia]
+    vars = [
+        "title",
+        "summary",
+        "content",
+        "date",
+        "publishdate",
+        "description",
+        "permalink",
+        "keywords",
+        "lastmod",
+    ]
+    params = [
+        "tags",
+        "categories",
+    ]

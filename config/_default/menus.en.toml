@@ -1,7 +1,7 @@
 [[main]]
-  identifier = "books"
-  name = "Books"
-  url = "books"
+  identifier = "book"
+  name = "Security Book"
+  url = "book"
   weight = 1
 
 [[main]]
