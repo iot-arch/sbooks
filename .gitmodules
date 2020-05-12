@@ -1,0 +1,9 @@
+[submodule "themes/zdoc"]
+	path = themes/zdoc
+	url = https://github.com/zzossig/hugo-theme-zdoc.git
+[submodule "themes/techdoc"]
+	path = themes/techdoc
+	url = https://github.com/thingsym/hugo-theme-techdoc.git
+[submodule "theme/gitbook"]
+	path = theme/gitbook
+	url = https://github.com/openeuler-mirror/gitbook-theme-hugo.git
