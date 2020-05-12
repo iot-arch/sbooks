@@ -6,7 +6,6 @@ title = "sbook site"
 theme = "techdoc"
 
 hasCJKLanguage = true
-metaDataFormat = "yaml"
 
 defaultContentLanguage = "en"
 defaultContentLanguageInSubdir= false

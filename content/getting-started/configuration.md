@@ -1,6 +1,6 @@
 ---
 title: "Configuration"
-date: 2017-10-17T15:26:15Z
+date: 2019-10-17T15:26:15Z
 lastmod: 2019-10-26T15:26:15Z
 draft: false
 weight: 20

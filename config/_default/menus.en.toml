@@ -1,18 +1,1 @@
-[[main]]
-  identifier = "book"
-  name = "Security Book"
-  url = "book"
-  weight = 1
-
-[[main]]
-  identifier = "updates"
-  name = "Updates"
-  url = "updates"
-  weight = 2
-
-[[main]]
-  identifier = "about"
-  name = "About"
-  url = "about"
-  weight = 3
 

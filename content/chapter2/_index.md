@@ -1,6 +1,6 @@
 ---
 title: "Chapter 2 (weighted)"
-date: 2017-10-17T15:26:15Z
+date: 2019-10-17T15:26:15Z
 draft: false
 weight: 30
 ---
