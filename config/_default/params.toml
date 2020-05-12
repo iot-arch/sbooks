@@ -1,69 +1,77 @@
-# Source Code repository section
-# description = "this site is designed for book"
-github_repository = "https://github.com/iotarch/sbooks"
-version = "0.0.1"
+logo = true
+logoText = "ZDoc"
+logoType = "short" # long, short
+description = "The ZDoc theme for Hugo example site."
 
-# Documentation repository section
-# documentation repository (set edit link to documentation repository)
-github_doc_repository = "https://github.com/iotarch/sbooks"
+themeOptions = ["light", "dark"]
 
-# Analytic section
-google_analytics_id = "" # Your Google Analytics tracking id
-tag_manager_container_id = "" # Your Google Tag Manager container id
-google_site_verification = "" # Your Google Site Verification for Search Console
+useFaviconGenerator = true # https://www.favicon-generator.org/
 
-# Open Graph and Twitter Cards settings section
-# Open Graph settings for each page are set on the front matter.
-# See https://gohugo.io/templates/internal/#open-graph
-# See https://gohugo.io/templates/internal/#twitter-cards
-title = "Hugo Techdoc Theme"
-images = ["images/og-image.png"] # Open graph images are placed in `static/images`
+enableTocSwitch = true
+enableLandingBackground = false
+enableSearch = true
+enableSearchHighlight = true
+enableLangChange = true
+enableDarkMode = true
+enableBreadcrumb = true
+enableBlogBreadcrumb = true
+enableEditBtn = false
+enableToc = true
+enableMenu = true
+enableNavbar = true
+enableFooter = true
+showPoweredBy = true
 
-# Theme settings section
-# Theme color
-# See color value reference https://developer.mozilla.org/en-US/docs/Web/CSS/color
-custom_font_color = ""
-custom_background_color = ""
+tocLevels = ["h2", "h3", "h4"]
+paginateWindow = 1
+taxoPaginate = 13
+taxoGroupByDate = "2006" # "2006-01": group by month, "2006": group by year
 
-# Documentation Menu section
-# Menu style settings
-menu_style = "open-menu" # "open-menu" or "slide-menu"
+github = "https://github.com/zzossig/hugo-theme-zdoc"
 
-# Date format
-dateformat = "" # default "2 Jan 2006"
-# See the format reference https://gohugo.io/functions/format/#hugo-date-and-time-templating-reference
+# comment
+enableComment = true
+disqus_shortname = ""
+commento = false
 
-# path name excluded from documentation menu
-menu_exclusion = [
-    "archives",
-    "archive",
-    "blog",
-    "entry",
-    "post",
-    "posts",
-]
+[gitment]          # Gitment is a comment system based on GitHub issues. see https://github.com/imsun/gitment
+  owner = ""              # Your GitHub ID
+  repo = ""               # The repo to store comments
+  clientId = ""           # Your client ID
+  clientSecret = ""       # Your client secret
 
-# Algolia site search section
-# See https://www.algolia.com/doc/
-algolia_search_enable = true
-algolia_indexName = "hugo-demo-techdoc"
-algolia_appId = "7W4SAN4PLK"
-algolia_apiKey = "cbf12a63ff72d9c5dc0c10c195cf9128" # Search-Only API Key
+[utterances]       # https://utteranc.es/
+  owner = ""              # Your GitHub ID
+  repo = ""               # The repo to store comments
 
+[gitalk]           # Gitalk is a comment system based on GitHub issues. see https://github.com/gitalk/gitalk
+  owner = ""              # Your GitHub ID
+  repo = ""               # The repo to store comments
+  clientId = ""           # Your client ID
+  clientSecret = ""       # Your client secret
 
-[algolia]
-    vars = [
-        "title",
-        "summary",
-        "content",
-        "date",
-        "publishdate",
-        "description",
-        "permalink",
-        "keywords",
-        "lastmod",
-    ]
-    params = [
-        "tags",
-        "categories",
-    ]
+# Valine.
+# You can get your appid and appkey from https://leancloud.cn
+# more info please open https://valine.js.org
+[valine]
+  enable = false
+  appId = '你的appId'
+  appKey = '你的appKey'
+  notify = false  # mail notifier , https://github.com/xCss/Valine/wiki
+  verify = false # Verification code
+  avatar = 'mm' 
+  placeholder = '说点什么吧...'
+  visitor = false
+
+[changyan]
+  changyanAppid = ""        # Changyan app id             # 畅言
+  changyanAppkey = ""       # Changyan app key
+
+[livere]
+  livereUID = ""            # LiveRe UID                  # 来必力
+
+# Isso: https://posativ.org/isso/
+[isso]
+  enable = false
+  scriptSrc = "" # "https://isso.example.com/js/embed.min.js"
+  dataAttrs = "" # "data-isso='https://isso.example.com' data-isso-require-author='true'"

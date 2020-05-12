@@ -1,14 +1,11 @@
 [en]
-# title = "Home Page"
-languageName = "English"
-weight = 1
+  title = "ZDoc"
+  languageName = "English"
+  weight = 1
+  contentdir = "content/en"
 
 [ko]
-title = "Korea Theme"
-languageName = "한국어"
-weight = 2
-
-[zh]
-title = "Chinese Theme"
-languageName = "中文"
-weight = 3
+  title = "ZDoc"
+  languageName = "한국어"
+  weight = 2
+  contentdir = "content/ko"
