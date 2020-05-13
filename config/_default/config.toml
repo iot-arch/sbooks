@@ -16,6 +16,8 @@ googleAnalytics = ""
 
 disableKinds = ["taxonomyTerm"]
 
+publishDir = "public"  # this is default
+
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
