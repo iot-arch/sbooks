@@ -33,4 +33,3 @@ header:
 ---
 
 hello contents
-

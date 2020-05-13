@@ -11,9 +11,9 @@ header:
     title:
       - Blog
     subtitle:
-      - 
+      -
     spaceBetweenTitleSubtitle: 0
-  
+
   - type: img
     imageSrc: images/header/background.png
     imageSize: initial
@@ -24,9 +24,9 @@ header:
     paddingY: 0
     align: center
     title:
-      - 
+      -
     subtitle:
-      - 
+      -
     titleShadow: true
     subtitleCursive: true
     spaceBetweenTitleSubtitle: 20
