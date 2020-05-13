@@ -2,51 +2,51 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Getting Started on ZDoc</title>
-    <link>/ko/docs/gettingstarted/</link>
+    <link>/sbook/public/ko/docs/gettingstarted/</link>
     <description>Recent content in Getting Started on ZDoc</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko</language>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     <lastBuildDate>Tue, 28 Jan 2020 00:34:39 +0900</lastBuildDate>
     
-        <atom:link href="/ko/docs/gettingstarted/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="/sbook/public/ko/docs/gettingstarted/index.xml" rel="self" type="application/rss+xml" />
     
     
     
       
       <item>
         <title>Basic Usage</title>
-        <link>/ko/docs/gettingstarted/basicusage/</link>
+        <link>/sbook/public/ko/docs/gettingstarted/basicusage/</link>
         <pubDate>Tue, 28 Jan 2020 00:34:51 +0900</pubDate>
         
-        <guid>/ko/docs/gettingstarted/basicusage/</guid>
+        <guid>/sbook/public/ko/docs/gettingstarted/basicusage/</guid>
         <description>Markdown here</description>
       </item>
       
       <item>
         <title>Configuration</title>
-        <link>/ko/docs/gettingstarted/configuration/</link>
+        <link>/sbook/public/ko/docs/gettingstarted/configuration/</link>
         <pubDate>Tue, 28 Jan 2020 00:34:56 +0900</pubDate>
         
-        <guid>/ko/docs/gettingstarted/configuration/</guid>
+        <guid>/sbook/public/ko/docs/gettingstarted/configuration/</guid>
         <description>Markdown here</description>
       </item>
       
       <item>
         <title>Installation</title>
-        <link>/ko/docs/gettingstarted/installation/</link>
+        <link>/sbook/public/ko/docs/gettingstarted/installation/</link>
         <pubDate>Tue, 28 Jan 2020 00:34:13 +0900</pubDate>
         
-        <guid>/ko/docs/gettingstarted/installation/</guid>
+        <guid>/sbook/public/ko/docs/gettingstarted/installation/</guid>
         <description>Markdown here</description>
       </item>
       
       <item>
         <title>Quick Start</title>
-        <link>/ko/docs/gettingstarted/quickstart/</link>
+        <link>/sbook/public/ko/docs/gettingstarted/quickstart/</link>
         <pubDate>Tue, 28 Jan 2020 00:34:41 +0900</pubDate>
         
-        <guid>/ko/docs/gettingstarted/quickstart/</guid>
+        <guid>/sbook/public/ko/docs/gettingstarted/quickstart/</guid>
         <description>Markdown here</description>
       </item>
       
