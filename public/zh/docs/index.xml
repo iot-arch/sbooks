@@ -2,78 +2,78 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Docs on ZDoc</title>
-    <link>/zh/docs/</link>
+    <link>https://iot-arch.github.io/sbooks/public/zh/docs/</link>
     <description>Recent content in Docs on ZDoc</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     <lastBuildDate>Sat, 11 Jan 2020 14:09:21 +0900</lastBuildDate>
     
-        <atom:link href="/zh/docs/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://iot-arch.github.io/sbooks/public/zh/docs/index.xml" rel="self" type="application/rss+xml" />
     
     
     
       
       <item>
         <title>Getting Started</title>
-        <link>/zh/docs/gettingstarted/</link>
+        <link>https://iot-arch.github.io/sbooks/public/zh/docs/gettingstarted/</link>
         <pubDate>Tue, 28 Jan 2020 00:34:39 +0900</pubDate>
         
-        <guid>/zh/docs/gettingstarted/</guid>
+        <guid>https://iot-arch.github.io/sbooks/public/zh/docs/gettingstarted/</guid>
         <description></description>
       </item>
       
       <item>
         <title>Content Management</title>
-        <link>/zh/docs/contentmanagement/</link>
+        <link>https://iot-arch.github.io/sbooks/public/zh/docs/contentmanagement/</link>
         <pubDate>Tue, 28 Jan 2020 00:36:39 +0900</pubDate>
         
-        <guid>/zh/docs/contentmanagement/</guid>
+        <guid>https://iot-arch.github.io/sbooks/public/zh/docs/contentmanagement/</guid>
         <description></description>
       </item>
       
       <item>
         <title>Related content</title>
-        <link>/zh/docs/relatedcontent/</link>
+        <link>https://iot-arch.github.io/sbooks/public/zh/docs/relatedcontent/</link>
         <pubDate>Tue, 28 Jan 2020 00:39:09 +0900</pubDate>
         
-        <guid>/zh/docs/relatedcontent/</guid>
+        <guid>https://iot-arch.github.io/sbooks/public/zh/docs/relatedcontent/</guid>
         <description>Markdown here</description>
       </item>
       
       <item>
         <title>Page Resources</title>
-        <link>/zh/docs/pageresources/</link>
+        <link>https://iot-arch.github.io/sbooks/public/zh/docs/pageresources/</link>
         <pubDate>Tue, 28 Jan 2020 00:39:06 +0900</pubDate>
         
-        <guid>/zh/docs/pageresources/</guid>
+        <guid>https://iot-arch.github.io/sbooks/public/zh/docs/pageresources/</guid>
         <description>Markdown here</description>
       </item>
       
       <item>
         <title>Page Bundles</title>
-        <link>/zh/docs/pagebundles/</link>
+        <link>https://iot-arch.github.io/sbooks/public/zh/docs/pagebundles/</link>
         <pubDate>Tue, 28 Jan 2020 00:38:59 +0900</pubDate>
         
-        <guid>/zh/docs/pagebundles/</guid>
+        <guid>https://iot-arch.github.io/sbooks/public/zh/docs/pagebundles/</guid>
         <description>Markdown here</description>
       </item>
       
       <item>
         <title>Content Formats</title>
-        <link>/zh/docs/contentfortmats/</link>
+        <link>https://iot-arch.github.io/sbooks/public/zh/docs/contentfortmats/</link>
         <pubDate>Tue, 28 Jan 2020 00:38:51 +0900</pubDate>
         
-        <guid>/zh/docs/contentfortmats/</guid>
+        <guid>https://iot-arch.github.io/sbooks/public/zh/docs/contentfortmats/</guid>
         <description>Markdown here</description>
       </item>
       
       <item>
         <title>Image Processing</title>
-        <link>/zh/docs/imageprocessing/</link>
+        <link>https://iot-arch.github.io/sbooks/public/zh/docs/imageprocessing/</link>
         <pubDate>Tue, 28 Jan 2020 00:38:48 +0900</pubDate>
         
-        <guid>/zh/docs/imageprocessing/</guid>
+        <guid>https://iot-arch.github.io/sbooks/public/zh/docs/imageprocessing/</guid>
         <description>Markdown here</description>
       </item>
       
