@@ -1,4 +1,4 @@
-baseURL = "https://iot-arch.github.io/sbooks/public/"
+baseURL = "https://iot-arch.github.io/sbooks/"
 title = "sbooks site"
 theme = "zdoc"
 
