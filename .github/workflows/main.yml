@@ -25,7 +25,19 @@ jobs:
       - name: Build
         run: hugo   #  --minify
 
-      - name: Deploy
+      - name: commit
+        run: |
+          git config --global user.email crazybber@outlook.com
+          git config --global user.name Edward
+          git add .
+          git commit -m "update a book version" -a
+
+      - name: Push sites to master
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Deploy to gh
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.build_deploy_sbook }}
