@@ -1,4 +1,4 @@
-baseURL = "https://iotarch.github.io/iotarch/sbooks"
+baseURL = "/"
 title = "sbook site"
 theme = "zdoc"
 
