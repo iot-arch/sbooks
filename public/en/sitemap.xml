@@ -332,11 +332,6 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="ko"
-                href="https://iot-arch.github.io/sbooks/public/ko/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="en"
                 href="https://iot-arch.github.io/sbooks/public/"
                 />
@@ -382,11 +377,6 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="ko"
-                href="https://iot-arch.github.io/sbooks/public/ko/tags/css/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="en"
                 href="https://iot-arch.github.io/sbooks/public/tags/css/"
                 />
@@ -402,11 +392,6 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="ko"
-                href="https://iot-arch.github.io/sbooks/public/ko/tags/html/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="en"
                 href="https://iot-arch.github.io/sbooks/public/tags/html/"
                 />
@@ -419,11 +404,6 @@
                 rel="alternate"
                 hreflang="zh"
                 href="https://iot-arch.github.io/sbooks/public/zh/tags/markdown/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://iot-arch.github.io/sbooks/public/ko/tags/markdown/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -472,11 +452,6 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="ko"
-                href="https://iot-arch.github.io/sbooks/public/ko/tags/themes/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="en"
                 href="https://iot-arch.github.io/sbooks/public/tags/themes/"
                 />
@@ -507,11 +482,6 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="ko"
-                href="https://iot-arch.github.io/sbooks/public/ko/tags/text/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="en"
                 href="https://iot-arch.github.io/sbooks/public/tags/text/"
                 />
@@ -524,11 +494,6 @@
                 rel="alternate"
                 hreflang="zh"
                 href="https://iot-arch.github.io/sbooks/public/zh/tags/emoji/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://iot-arch.github.io/sbooks/public/ko/tags/emoji/"
                 />
     <xhtml:link
                 rel="alternate"
