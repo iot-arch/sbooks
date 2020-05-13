@@ -30,9 +30,7 @@ jobs:
           git config --global user.email crazybber@outlook.com
           git config --global user.name Edward
           git add .
-          msg="rebuilding and update a new version $(date)"
-          if [ -n "$*" ]; then msg="$*" fi
-          git commit -m "$msg"  -a
+          git commit -m "rebuilding and update a new version $(date)"  -a
 
       - name: Push changes
         uses: ad-m/github-push-action@master
