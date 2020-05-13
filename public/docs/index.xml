@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>book security on ZDoc</title>
+    <link>https://iotarch.github.io/iotarch/sbooks/docs/</link>
+    <description>Recent content in book security on ZDoc</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Sat, 11 Jan 2020 14:09:21 +0900</lastBuildDate>
+    
+        <atom:link href="https://iotarch.github.io/iotarch/sbooks/docs/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+      
+      <item>
+        <title>Depth 1</title>
+        <link>https://iotarch.github.io/iotarch/sbooks/docs/depth1/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://iotarch.github.io/iotarch/sbooks/docs/depth1/</guid>
+        <description></description>
+      </item>
+      
+      <item>
+        <title>Getting Started</title>
+        <link>https://iotarch.github.io/iotarch/sbooks/docs/gettingstarted/</link>
+        <pubDate>Tue, 28 Jan 2020 00:34:39 +0900</pubDate>
+        
+        <guid>https://iotarch.github.io/iotarch/sbooks/docs/gettingstarted/</guid>
+        <description></description>
+      </item>
+      
+      <item>
+        <title>Content Management</title>
+        <link>https://iotarch.github.io/iotarch/sbooks/docs/contentmanagement/</link>
+        <pubDate>Tue, 28 Jan 2020 00:36:39 +0900</pubDate>
+        
+        <guid>https://iotarch.github.io/iotarch/sbooks/docs/contentmanagement/</guid>
+        <description></description>
+      </item>
+      
+      <item>
+        <title>Related content</title>
+        <link>https://iotarch.github.io/iotarch/sbooks/docs/relatedcontent/</link>
+        <pubDate>Tue, 28 Jan 2020 00:39:09 +0900</pubDate>
+        
+        <guid>https://iotarch.github.io/iotarch/sbooks/docs/relatedcontent/</guid>
+        <description>Markdown here</description>
+      </item>
+      
+      <item>
+        <title>Page Resources</title>
+        <link>https://iotarch.github.io/iotarch/sbooks/docs/pageresources/</link>
+        <pubDate>Tue, 28 Jan 2020 00:39:06 +0900</pubDate>
+        
+        <guid>https://iotarch.github.io/iotarch/sbooks/docs/pageresources/</guid>
+        <description>Markdown here</description>
+      </item>
+      
+      <item>
+        <title>Page Bundles</title>
+        <link>https://iotarch.github.io/iotarch/sbooks/docs/pagebundles/</link>
+        <pubDate>Tue, 28 Jan 2020 00:38:59 +0900</pubDate>
+        
+        <guid>https://iotarch.github.io/iotarch/sbooks/docs/pagebundles/</guid>
+        <description>Markdown here</description>
+      </item>
+      
+      <item>
+        <title>Content Formats</title>
+        <link>https://iotarch.github.io/iotarch/sbooks/docs/contentfortmats/</link>
+        <pubDate>Tue, 28 Jan 2020 00:38:51 +0900</pubDate>
+        
+        <guid>https://iotarch.github.io/iotarch/sbooks/docs/contentfortmats/</guid>
+        <description>Markdown here</description>
+      </item>
+      
+      <item>
+        <title>Image Processing</title>
+        <link>https://iotarch.github.io/iotarch/sbooks/docs/imageprocessing/</link>
+        <pubDate>Tue, 28 Jan 2020 00:38:48 +0900</pubDate>
+        
+        <guid>https://iotarch.github.io/iotarch/sbooks/docs/imageprocessing/</guid>
+        <description>Markdown here</description>
+      </item>
+      
+    
+  </channel>
+</rss>
