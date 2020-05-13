@@ -19,20 +19,8 @@ jobs:
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
         with:
-          hugo-version: 'latest'
+          hugo-version: 'v0.70.0'
           extended: true
 
       - name: Build
         run: hugo   #  --minify
-
-      - name: commit
-        run: |
-          git config --global user.email crazybber@outlook.com
-          git config --global user.name Edward
-          git add .
-          git commit -m "update a book version" -a
-
-      - name: Push changes
-        uses: ad-m/github-push-action@master
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
