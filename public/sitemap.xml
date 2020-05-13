@@ -2,6 +2,13 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	
 	<sitemap>
+	   	<loc>https://iot-arch.github.io/sbooks/public/ko/sitemap.xml</loc>
+		
+	   	<lastmod>2020-01-28T00:39:09+09:00</lastmod>
+		
+	</sitemap>
+	
+	<sitemap>
 	   	<loc>https://iot-arch.github.io/sbooks/public/en/sitemap.xml</loc>
 		
 	   	<lastmod>2020-02-28T10:08:56+09:00</lastmod>
@@ -9,7 +16,7 @@
 	</sitemap>
 	
 	<sitemap>
-	   	<loc>https://iot-arch.github.io/sbooks/public/ko/sitemap.xml</loc>
+	   	<loc>https://iot-arch.github.io/sbooks/public/zh/sitemap.xml</loc>
 		
 	   	<lastmod>2020-01-28T00:39:09+09:00</lastmod>
 		

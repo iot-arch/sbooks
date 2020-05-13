@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>shortcodes on ZDoc</title>
+    <title>shortcodes on sbooks site</title>
     <link>https://iot-arch.github.io/sbooks/public/ko/tags/shortcodes/</link>
-    <description>Recent content in shortcodes on ZDoc</description>
+    <description>Recent content in shortcodes on sbooks site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko</language>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
@@ -16,10 +16,10 @@
       
       <item>
         <title>Rich Content</title>
-        <link>https://iot-arch.github.io/sbooks/public/ko/blog/rich-content/</link>
+        <link>https://iot-arch.github.io/sbooks/public/ko/zh/blog/rich-content/</link>
         <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://iot-arch.github.io/sbooks/public/ko/blog/rich-content/</guid>
+        <guid>https://iot-arch.github.io/sbooks/public/ko/zh/blog/rich-content/</guid>
         <description></description>
       </item>
       
