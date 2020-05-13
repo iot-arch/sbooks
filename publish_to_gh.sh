@@ -1,12 +1,14 @@
 # 在用这个脚本前，需要做一些准备工作
+# git worktree add -B gh-pages public upstream/gh-pages
+# git checkout master
+# rm -rf public
 # echo "public" >> .gitignore
 # git checkout --orphan gh-pages
 # git reset --hard
 # git commit --allow-empty -m "Initializing gh-pages branch"
 # git push upstream gh-pages
-# rm -rf public
-# git worktree add -B gh-pages public upstream/gh-pages
-# git checkout master
+
+
 
 #!/bin/sh
 
