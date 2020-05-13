@@ -1,5 +1,5 @@
-baseURL = "/sbook/public/"
-title = "sbook site"
+baseURL = "https://iot-arch.github.io/sbook/public"
+title = "sbooks site"
 theme = "zdoc"
 
 defaultContentLanguage = "en"
