@@ -25,14 +25,9 @@ jobs:
       - name: Build
         run: hugo   #  --minify
 
-      - name: commit
-        run: |
-          git config --global user.email crazybber@outlook.com
-          git config --global user.name Edward
-          git add .
-          git commit -m "rebuilding and update a new version" -a
-
-      - name: Push changes
-        uses: ad-m/github-push-action@master
+      - name: Deploy
+        uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.BOOK_DEPLOY }}
+          publish_dir: ./public
+          commit_message: ${{ github.event.head_commit.message }}
