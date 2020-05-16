@@ -1,17 +1,17 @@
 [[main]]
   identifier = "docs"
-  name = "Docs"
+  name = "文档"
   url = "docs"
   weight = 1
 
 [[main]]
   identifier = "updates"
-  name = "Updates"
+  name = "更新"
   url = "updates"
   weight = 2
 
 [[main]]
   identifier = "blog"
-  name = "Blog"
+  name = "博客"
   url = "blog"
   weight = 3

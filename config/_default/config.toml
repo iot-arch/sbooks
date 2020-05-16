@@ -6,7 +6,7 @@ defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = false
 hasCJKLanguage = false
 
-copyright = "&copy;{year}, All Rights Reserved"
+copyright = "&copy;{year}, All Rights Reserved \r\n Modified By Edward https://arch.run"
 timeout = 10000
 enableEmoji = true
 paginate = 13
@@ -16,7 +16,7 @@ rssLimit = 100
 
 disableKinds = ["taxonomyTerm"]
 
-publishDir = "public"  # this is default
+publishDir = "docs"  # this is default
 
 [markup]
   [markup.goldmark]

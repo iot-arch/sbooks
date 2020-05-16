@@ -1,39 +1,34 @@
 ---
-title: Content
-description: Home list page
-blogHeaderType: text
-headerHeight: 112
-header:
-  - type: text
-    paddingX: 50
-    paddingY: 0
-    align: center
-    title:
-      - Blog
-    subtitle:
-      -
-    spaceBetweenTitleSubtitle: 0
-
-  - type: img
-    imageSrc: images/header/background.png
-    imageSize: initial
-    imageRepeat: no-repeat
-    imagePosition: center
-    height: 170
-    paddingX: 50
-    paddingY: 0
-    align: center
-    title:
-      -
-    subtitle:
-      -
-    titleShadow: true
-    subtitleCursive: true
-    spaceBetweenTitleSubtitle: 20
+title: ZDoc
+description: Hugo ZDoc theme landing page
+date: 2020-01-26T04:15:05+09:00
+draft: false
+updatesBanner: "Banner - &nbsp; [Our Book](https://arch.run) &nbsp; is comming"
+landing:
+  title: 
+    - Hugo zdoc theme
+  image: favicon/android-icon-192x192.png
+  text:
+    - Make a documentation with hugo zdoc theme!
+  buttons:
+    - link: docs/gettingstarted/quickstart
+      text: GET STARTED
+      color: primary
+    - link: https://github.com/zzossig/hugo-theme-zdoc
+      text: DOWNLOAD
+      color: default
+  titleColor: default
+  textColor: default
+shields:
+  - link: https://github.com/zzossig/hugo-theme-zdoc
+    image: https://img.shields.io/github/forks/zzossig/hugo-theme-zdoc?label=Fork&style=social
+    alt: Hugo ZDoc theme github forks
+  - link: https://github.com/zzossig/hugo-theme-zdoc
+    image: https://img.shields.io/github/stars/zzossig/hugo-theme-zdoc?label=Star&style=social
+    alt: Hugo ZDoc theme github stars
 ---
 
-hello contents
+#  Index 
 
-hugo introduce : Hugo-框架学习
+this is the content
 
-<https://studygolang.com/articles/14331>
