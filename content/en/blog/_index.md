@@ -1,6 +1,6 @@
 ---
 title: Blog
-description: Blog list page
+description: Blog page
 blogHeaderType: text
 headerHeight: 112
 header:
@@ -9,9 +9,9 @@ header:
     paddingY: 0
     align: center
     title:
-      - Blog
+      - Blog List
     subtitle:
-      -
+      - 一些零零碎碎的记录,balabala... 
     spaceBetweenTitleSubtitle: 0
 
   - type: img
