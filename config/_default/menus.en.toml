@@ -15,9 +15,3 @@
   name = "Blog"
   url = "blog"
   weight = 4
-
-[[main]]
-  identifier = "about"
-  name = "About"
-  url = "about"
-  weight = 3
