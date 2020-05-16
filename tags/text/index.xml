@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>text on ZDoc</title>
+    <link>https://iot-arch.github.io/sbooks/tags/text/</link>
+    <description>Recent content in text on ZDoc</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>&amp;copy;{year}, All Rights Reserved 
+ Modified By Edward https://arch.run</copyright>
+    <lastBuildDate>Sat, 09 Mar 2019 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="https://iot-arch.github.io/sbooks/tags/text/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+      
+      <item>
+        <title>Placeholder Text</title>
+        <link>https://iot-arch.github.io/sbooks/blog/placeholder-text/</link>
+        <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+        
+        <guid>https://iot-arch.github.io/sbooks/blog/placeholder-text/</guid>
+        <description>Hello Contents
+ Exierant elisi ambit vivere dedere Duce pollice Eris modo Spargitque ferrea quos palude  </description>
+      </item>
+      
+      <item>
+        <title>Rich Content</title>
+        <link>https://iot-arch.github.io/sbooks/blog/rich-content/</link>
+        <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+        
+        <guid>https://iot-arch.github.io/sbooks/blog/rich-content/</guid>
+        <description></description>
+      </item>
+      
+    
+  </channel>
+</rss>

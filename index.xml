@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ZDoc</title>
+    <link>https://iot-arch.github.io/sbooks/</link>
+    <description>Recent content on ZDoc</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>&amp;copy;{year}, All Rights Reserved 
+ Modified By Edward https://arch.run</copyright>
+    <lastBuildDate>Sun, 26 Jan 2020 04:15:05 +0900</lastBuildDate>
+    
+        <atom:link href="https://iot-arch.github.io/sbooks/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+      
+      <item>
+        <title>May 2019</title>
+        <link>https://iot-arch.github.io/sbooks/updates/2019_may/</link>
+        <pubDate>Tue, 28 Jan 2020 00:10:51 +0900</pubDate>
+        
+        <guid>https://iot-arch.github.io/sbooks/updates/2019_may/</guid>
+        <description>Markdown here</description>
+      </item>
+      
+      <item>
+        <title>April 2019</title>
+        <link>https://iot-arch.github.io/sbooks/updates/2019_april/</link>
+        <pubDate>Tue, 28 Jan 2020 00:10:48 +0900</pubDate>
+        
+        <guid>https://iot-arch.github.io/sbooks/updates/2019_april/</guid>
+        <description>Markdown here</description>
+      </item>
+      
+      <item>
+        <title>March 2019</title>
+        <link>https://iot-arch.github.io/sbooks/updates/2019_march/</link>
+        <pubDate>Tue, 28 Jan 2020 00:10:42 +0900</pubDate>
+        
+        <guid>https://iot-arch.github.io/sbooks/updates/2019_march/</guid>
+        <description>Markdown here</description>
+      </item>
+      
+      <item>
+        <title>February 2019</title>
+        <link>https://iot-arch.github.io/sbooks/updates/2019_february/</link>
+        <pubDate>Tue, 28 Jan 2020 00:10:37 +0900</pubDate>
+        
+        <guid>https://iot-arch.github.io/sbooks/updates/2019_february/</guid>
+        <description>Markdown here</description>
+      </item>
+      
+      <item>
+        <title>January 2019</title>
+        <link>https://iot-arch.github.io/sbooks/updates/2019_january/</link>
+        <pubDate>Tue, 28 Jan 2020 00:10:09 +0900</pubDate>
+        
+        <guid>https://iot-arch.github.io/sbooks/updates/2019_january/</guid>
+        <description>Markdown here</description>
+      </item>
+      
+      <item>
+        <title>Test 1</title>
+        <link>https://iot-arch.github.io/sbooks/docs/depth1/test1/</link>
+        <pubDate>Thu, 30 Jan 2020 00:38:25 +0900</pubDate>
+        
+        <guid>https://iot-arch.github.io/sbooks/docs/depth1/test1/</guid>
+        <description></description>
+      </item>
+      
+      <item>
+        <title>Test 2</title>
+        <link>https://iot-arch.github.io/sbooks/docs/depth1/depth2/test2/</link>
+        <pubDate>Thu, 30 Jan 2020 00:38:25 +0900</pubDate>
+        
+        <guid>https://iot-arch.github.io/sbooks/docs/depth1/depth2/test2/</guid>
+        <description></description>
+      </item>
+      
+      <item>
+        <title>Test 3</title>
+        <link>https://iot-arch.github.io/sbooks/docs/depth1/depth2/depth3/test3/</link>
+        <pubDate>Thu, 30 Jan 2020 00:38:25 +0900</pubDate>
+        
+        <guid>https://iot-arch.github.io/sbooks/docs/depth1/depth2/depth3/test3/</guid>
+        <description></description>
+      </item>
+      
+      <item>
+        <title>ttttest</title>
+        <link>https://iot-arch.github.io/sbooks/docs/depth1/ttttest/</link>
+        <pubDate>Thu, 30 Jan 2020 00:38:25 +0900</pubDate>
+        
+        <guid>https://iot-arch.github.io/sbooks/docs/depth1/ttttest/</guid>
+        <description></description>
+      </item>
+      
+      <item>
+        <title>Related content</title>
+        <link>https://iot-arch.github.io/sbooks/docs/relatedcontent/</link>
+        <pubDate>Tue, 28 Jan 2020 00:39:09 +0900</pubDate>
+        
+        <guid>https://iot-arch.github.io/sbooks/docs/relatedcontent/</guid>
+        <description>Markdown here</description>
+      </item>
+      
+      <item>
+        <title>Page Resources</title>
+        <link>https://iot-arch.github.io/sbooks/docs/pageresources/</link>
+        <pubDate>Tue, 28 Jan 2020 00:39:06 +0900</pubDate>
+        
+        <guid>https://iot-arch.github.io/sbooks/docs/pageresources/</guid>
+        <description>Markdown here</description>
+      </item>
+      
+      <item>
+        <title>Page Bundles</title>
+        <link>https://iot-arch.github.io/sbooks/docs/pagebundles/</link>
+        <pubDate>Tue, 28 Jan 2020 00:38:59 +0900</pubDate>
+        
+        <guid>https://iot-arch.github.io/sbooks/docs/pagebundles/</guid>
+        <description>Markdown here</description>
+      </item>
+      
+      <item>
+        <title>Content Formats</title>
+        <link>https://iot-arch.github.io/sbooks/docs/contentfortmats/</link>
+        <pubDate>Tue, 28 Jan 2020 00:38:51 +0900</pubDate>
+        
+        <guid>https://iot-arch.github.io/sbooks/docs/contentfortmats/</guid>
+        <description>Markdown here</description>
+      </item>
+      
+      <item>
+        <title>Image Processing</title>
+        <link>https://iot-arch.github.io/sbooks/docs/imageprocessing/</link>
+        <pubDate>Tue, 28 Jan 2020 00:38:48 +0900</pubDate>
+        
+        <guid>https://iot-arch.github.io/sbooks/docs/imageprocessing/</guid>
+        <description>Markdown here</description>
+      </item>
+      
+      <item>
+        <title>Shortcodes</title>
+        <link>https://iot-arch.github.io/sbooks/docs/contentmanagement/shortcodes/</link>
+        <pubDate>Tue, 28 Jan 2020 00:36:19 +0900</pubDate>
+        
+        <guid>https://iot-arch.github.io/sbooks/docs/contentmanagement/shortcodes/</guid>
+        <description>Markdown here</description>
+      </item>
+      
+      <item>
+        <title>Frontmatter</title>
+        <link>https://iot-arch.github.io/sbooks/docs/contentmanagement/frontmatter/</link>
+        <pubDate>Tue, 28 Jan 2020 00:36:14 +0900</pubDate>
+        
+        <guid>https://iot-arch.github.io/sbooks/docs/contentmanagement/frontmatter/</guid>
+        <description>Markdown here</description>
+      </item>
+      
+      <item>
+        <title>Markdown Syntax Guide</title>
+        <link>https://iot-arch.github.io/sbooks/blog/markdown-syntax/</link>
+        <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+        
+        <guid>https://iot-arch.github.io/sbooks/blog/markdown-syntax/</guid>
+        <description>Lorem Hello Content</description>
+      </item>
+      
+      <item>
+        <title>Section</title>
+        <link>https://iot-arch.github.io/sbooks/docs/contentmanagement/sections/</link>
+        <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+        
+        <guid>https://iot-arch.github.io/sbooks/docs/contentmanagement/sections/</guid>
+        <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
+      </item>
+      
+      <item>
+        <title>Placeholder Text</title>
+        <link>https://iot-arch.github.io/sbooks/blog/placeholder-text/</link>
+        <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+        
+        <guid>https://iot-arch.github.io/sbooks/blog/placeholder-text/</guid>
+        <description>Hello Contents
+ Exierant elisi ambit vivere dedere Duce pollice Eris modo Spargitque ferrea quos palude  </description>
+      </item>
+      
+      <item>
+        <title>Rich Content</title>
+        <link>https://iot-arch.github.io/sbooks/blog/rich-content/</link>
+        <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+        
+        <guid>https://iot-arch.github.io/sbooks/blog/rich-content/</guid>
+        <description></description>
+      </item>
+      
+      <item>
+        <title>Emoji Support</title>
+        <link>https://iot-arch.github.io/sbooks/blog/emoji-support/</link>
+        <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+        
+        <guid>https://iot-arch.github.io/sbooks/blog/emoji-support/</guid>
+        <description>&lt;p&gt;hello content&lt;/p&gt;</description>
+      </item>
+      
+    
+  </channel>
+</rss>
