@@ -165,7 +165,7 @@
         <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
         
         <guid>https://iot-arch.github.io/sbooks/blog/markdown-syntax/</guid>
-        <description>Lorem Hello Content</description>
+        <description>&lt;p&gt;Lorem  tempus theme.&lt;/p&gt;</description>
       </item>
       
       <item>
@@ -183,8 +183,11 @@
         <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
         
         <guid>https://iot-arch.github.io/sbooks/blog/placeholder-text/</guid>
-        <description>Hello Contents
- Exierant elisi ambit vivere dedere Duce pollice Eris modo Spargitque ferrea quos palude  </description>
+        <description>Lorem deorum.
+ Exierant elisi ambit vivere dedere Duce pollice Eris modo Spargitque ferrea quos palude  Vagus elidunt 
+The Van de Graaf Canon
+Mane refeci capiebant unda mulcebat Victa sequitur. Vel mitis temploque vocatus, inque alis, oculos nomen non silvisante urbem
+Propoetides parte.</description>
       </item>
       
       <item>
@@ -193,7 +196,7 @@
         <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
         
         <guid>https://iot-arch.github.io/sbooks/blog/rich-content/</guid>
-        <description></description>
+        <description>&lt;p&gt;Lorem  tempus&lt;/p&gt;</description>
       </item>
       
       <item>
@@ -202,7 +205,7 @@
         <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
         
         <guid>https://iot-arch.github.io/sbooks/blog/emoji-support/</guid>
-        <description>&lt;p&gt;hello content&lt;/p&gt;</description>
+        <description>&lt;p&gt;Using Emoji&lt;/p&gt;</description>
       </item>
       
     
