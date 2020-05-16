@@ -3,6 +3,8 @@ logoText = "Arch.run"
 logoType = "short" # long, short
 description = "this site is designed for book"
 
+prefix = "/sbooks/"
+
 themeOptions = ["light", "dark"]
 
 useFaviconGenerator = true # https://www.favicon-generator.org/

@@ -11,8 +11,8 @@ header:
     title:
       - Blog List
     subtitle:
-      - 一些零零碎碎的记录,balabala... 
-    spaceBetweenTitleSubtitle: 0
+      - 副标题，比如可以写：记录一些零零碎碎的记录... 
+    spaceBetweenTitleSubtitle: 10
 
   - type: img
     imageSrc: images/header/background.png
