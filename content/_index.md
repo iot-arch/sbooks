@@ -1,6 +1,6 @@
 ---
-title: Blog
-description: Blog list page
+title: Content
+description: Home list page
 blogHeaderType: text
 headerHeight: 112
 header:
@@ -31,3 +31,9 @@ header:
     subtitleCursive: true
     spaceBetweenTitleSubtitle: 20
 ---
+
+hello contents
+
+hugo introduce : Hugo-框架学习
+
+<https://studygolang.com/articles/14331>

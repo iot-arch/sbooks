@@ -1,5 +1,5 @@
-baseURL = "https://iotarch.github.io/iotarch/sbooks"
-title = "sbook site"
+baseURL = "https://iot-arch.github.io/sbooks/"
+title = "sbooks site"
 theme = "zdoc"
 
 defaultContentLanguage = "en"
@@ -12,9 +12,11 @@ enableEmoji = true
 paginate = 13
 rssLimit = 100
 
-googleAnalytics = ""
+# googleAnalytics = ""
 
 disableKinds = ["taxonomyTerm"]
+
+publishDir = "public"  # this is default
 
 [markup]
   [markup.goldmark]
