@@ -1,11 +1,11 @@
 {
   "manifest_version": 2,
-  "name": "Hugo Zdoc theme",
-  "short_name": "Hugo Zdoc theme",
+  "name": "wiki doc site",
+  "short_name": "wiki doc",
   "version": "1.0.0",
   "default_locale": "en",
-  "description": "Hugo simple documentation theme",
-  "start_url": "https://themes.gohugo.io/theme/hugo-theme-zdoc/",
+  "description": "some amazing site",
+  "start_url": "https://iot-arch.github.io/sbooks",
   "icons": [
     {
       "src": "favicon/android-icon-36x36.png",
